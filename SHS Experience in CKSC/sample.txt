@@ -1,0 +1,129 @@
+<!DOCTYPLE html>
+<html>
+  <head>
+    <title>My Experience in CKSC SHS Department</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #f7faff; 
+        color: #333;
+      }
+.container {
+        width: 85%;
+        max-width: 900px;
+        margin: 40px auto;
+        background: #ffffff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      }
+
+
+      .logo-header {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .logo-header img {
+        width: 110px;
+      }
+      .logo-header h1 {
+        margin: 10px 0 0;
+        font-size: 2em;
+        color: #003366;
+      }
+
+   
+      .summary-box {
+        background: #eaf2ff;
+        padding: 18px;
+        border-left: 6px solid #003366;
+        border-radius: 6px;
+        color: #003366;
+        margin-bottom: 30px;
+      }
+
+      p.first-line-indent {
+        text-indent: 40px;
+        text-align: justify;
+        margin-bottom: 30px;
+      }
+
+      ol {
+        margin-left: 20px;
+      }
+      ol > li {
+        font-weight: bold;
+        margin-top: 20px;
+        color: #003366;
+      }
+      ul li {
+        margin-top: 10px;
+      }
+
+      .footer {
+        margin-top: 40px;
+        text-align: center;
+        font-style: italic;
+        color: #666;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="logo-header">
+   
+        <img src="CKSC LOGO" />
+        <h1>My SHS Experience in CKSC</h1>
+      </div>
+
+        <div class="summary-box">
+        <strong>Summary:</strong><br>
+        My four months in CKSC SHS were filled with challenges, responsibilities, and meaningful growth. 
+        Through events, lectures, teamwork, and communication, I learned important real-life skills that 
+        will guide me in college and my future career.
+      </div>
+
+      <p class="first-line-indent">
+        For the past 4 months of student life, I felt a lot of stress and hardship and had a hard time coping with it. 
+        However, these experiences also taught me important lessons that will help me when I attend college and when I start working.
+      </p>
+
+      <ol>
+        <li>Events and Program Preparation:</li>
+        <ul>
+          <li>Effective communication is the key to success.</li>
+          <li>Cooperation among classmates and teachers is a must.</li>
+          <li>Time management is essential to achieving our goals.</li>
+          <li>
+            Ideas and suggestions should be taken seriously, but not to the point that they conflict with the general process.
+            <span style="color:white;">(span kept)</span>
+          </li>
+          <li>
+            Choose someone capable to lead to avoid confusion.
+            <span style="color:white;">(span kept)</span>
+          </li>
+          <li>
+            Peaceful communication is important, but assertiveness may be needed when others refuse to communicate respectfully.
+            <span style="color:white;">(span kept)</span>
+          </li>
+        </ul>
+
+        <li>Lecture:</li>
+        <ul>
+          <li>Always be prepared for unexpected situations.</li>
+          <li>SHS life is more demanding than JHS: more assignments, tougher lectures, and more presentations.</li>
+          <li>Start thinking more maturely.</li>
+          <li>Adjusting to different teaching styles may take time.</li>
+          <li>Never be afraid to ask questions!</li>
+        </ul>
+      </ol>
+
+      <div class="footer">
+        “德智体群四育” — CKSC’s core values.
+      </div>
+    </div>
+  </body>
+</html>
